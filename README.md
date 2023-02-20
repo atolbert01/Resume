@@ -5,6 +5,7 @@
 
 ### CONTACT
 atolbertsmith@outlook.com
+
 (301) 992-8865 (mobile)
 
 ### WEBSITE
@@ -12,23 +13,41 @@ github.com/atolbert01
 
 ### LANGUAGES
 C#	● ● ●
+
 C/C++	● ● ●
+
 Java	● ● ●
+
 Python	● ● ○
+
 Lua	● ● ○
+
 JavaScript	● ● ○
+
 HTML/CSS	● ● ○
-TOOLS/TECH
+
+### TOOLS/TECH
+
 Git	● ● ●
+
 Windows	● ● ●
+
 Ubuntu	● ● ○
+
 macOS	● ○ ○
+
 OpenXR	● ● ○
+
 Oculus	● ● ○
+
 Android	● ● ○
+
 Visual Studio	● ● ●
+
 Unity Engine	● ● ●
+
 Unreal Engine	● ○ ○
+
 Autodesk Maya	● ○ ○
 
 ### SUMMARY
